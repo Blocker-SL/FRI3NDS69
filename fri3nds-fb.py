@@ -1,6 +1,6 @@
 #!/ufr/bin/python2
 #coding=utf-8
-#shell
+
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
